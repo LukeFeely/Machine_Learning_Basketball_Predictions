@@ -1,7 +1,7 @@
 # NBA Machine Learning Model 🏀⛹
 
 <p align="middle">
-<img width=400 src="https://www.legitgamblingsites.com/app/uploads/2019/04/basketball-statistics.png" />
+<img width=800 src="https://www.legitgamblingsites.com/app/uploads/2019/04/basketball-statistics.png" />
 </p>
 
 ## TLDR: 
