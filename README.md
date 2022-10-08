@@ -1,11 +1,11 @@
 # NBA Machine Learning Model 🏀⛹
 
 <p align="middle">
-<img width=400 src="https://dl.dropboxusercontent.com/s/yjh9y7b60kdiwhs/bball.png?dl=0" />
+<img width=400 src="https://www.legitgamblingsites.com/app/uploads/2019/04/basketball-statistics.png" />
 </p>
 
 ## TLDR: 
-- We managed to predict the games in the seasons 2015-2019 with 65% accuracy 
+- We managed to predict the games in the seasons 2016-2020 with 66% accuracy 
 - Using a logisitic regression model, kNN classifier and Kernelized Support Vector Machine
 - Features we used in the model
   - Average Points per game
