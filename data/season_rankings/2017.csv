@@ -1,0 +1,31 @@
+TEAM_ID,TEAM_NAME,OVERALL,HOME_RECORD,ROAD_RECORD,POST_SEASON_RECORD,RECORD_CLOSE_GAMES,RECORD_NORMAL_GAMES
+21,Golden State Warriors,67-15,36-5,31-10,20-6,3-4,48-6
+26,San Antonio Spurs,61-21,31-10,30-11,18-8,8-5,30-8
+29,Houston Rockets,55-27,30-11,25-16,15-9,8-3,30-11
+2,Boston Celtics,53-29,30-11,23-18,16-9,7-6,17-11
+6,Cleveland Cavaliers,51-31,31-10,20-21,12-15,3-4,25-15
+22,Los Angeles Clippers,51-31,29-12,22-19,16-10,3-6,33-14
+1,Toronto Raptors,51-31,28-13,23-18,18-7,8-7,26-8
+18,Utah Jazz,51-31,29-12,22-19,16-9,4-4,23-10
+14,Washington Wizards,49-33,30-11,19-22,15-12,9-6,18-12
+16,Oklahoma City Thunder,47-35,28-13,19-22,15-10,12-7,23-21
+12,Atlanta Hawks,43-39,23-18,20-21,11-15,7-8,17-21
+28,Memphis Grizzlies,43-39,24-17,19-22,9-15,7-5,17-20
+7,Indiana Pacers,42-40,29-12,13-28,13-12,4-2,23-19
+10,Milwaukee Bucks,42-40,23-18,19-22,17-10,8-2,21-22
+9,Chicago Bulls,41-41,25-16,16-25,13-12,5-6,17-23
+17,Portland Trail Blazers,41-41,25-16,16-25,18-8,7-11,18-16
+11,Miami Heat,41-41,23-18,18-23,16-9,8-6,19-13
+19,Denver Nuggets,40-42,22-19,18-23,15-11,5-10,24-19
+8,Detroit Pistons,37-45,24-17,13-28,10-15,5-7,23-26
+13,Charlotte Hornets,36-46,22-19,14-27,12-14,0-9,19-18
+30,New Orleans Pelicans,34-48,21-20,13-28,11-14,7-6,17-22
+27,Dallas Mavericks,33-49,21-20,12-29,11-15,4-6,14-26
+23,Sacramento Kings,32-50,17-24,15-26,8-17,10-6,9-27
+20,Minnesota Timberwolves,31-51,20-21,11-30,9-16,7-10,18-19
+3,New York Knicks,31-51,19-22,12-29,8-17,7-10,10-25
+15,Orlando Magic,29-53,16-25,13-28,8-16,5-5,10-32
+5,Philadelphia 76ers,28-54,17-24,11-30,7-19,9-8,7-29
+25,Los Angeles Lakers,26-56,17-24,9-32,7-17,2-4,14-31
+24,Phoenix Suns,24-58,15-26,9-32,6-19,9-5,7-32
+4,Brooklyn Nets,20-62,13-28,7-34,11-15,3-6,9-30

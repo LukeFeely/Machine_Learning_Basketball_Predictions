@@ -1,0 +1,31 @@
+TEAM_ID,TEAM_NAME,OVERALL,HOME_RECORD,ROAD_RECORD,POST_SEASON_RECORD,RECORD_CLOSE_GAMES,RECORD_NORMAL_GAMES
+21,Golden State Warriors,73-9,39-2,34-7,25-5,7-2,44-5
+26,San Antonio Spurs,67-15,40-1,27-14,22-7,4-4,44-6
+6,Cleveland Cavaliers,57-25,33-8,24-17,19-11,4-7,32-8
+1,Toronto Raptors,56-26,32-9,24-17,21-9,6-6,28-10
+16,Oklahoma City Thunder,55-27,32-9,23-18,15-13,8-6,33-5
+22,Los Angeles Clippers,53-29,29-12,24-17,18-11,8-4,28-15
+12,Atlanta Hawks,48-34,27-14,21-20,17-10,5-7,29-17
+2,Boston Celtics,48-34,28-13,20-21,16-11,5-7,26-13
+13,Charlotte Hornets,48-34,30-11,18-23,21-8,6-5,25-17
+11,Miami Heat,48-34,28-13,20-21,19-10,7-5,24-20
+7,Indiana Pacers,45-37,26-15,19-22,17-12,9-9,21-13
+8,Detroit Pistons,44-38,26-15,18-23,17-11,6-5,21-20
+17,Portland Trail Blazers,44-38,28-13,16-25,17-11,2-7,23-21
+27,Dallas Mavericks,42-40,23-18,19-22,13-14,6-11,19-18
+28,Memphis Grizzlies,42-40,26-15,16-25,11-18,8-3,15-23
+9,Chicago Bulls,42-40,26-15,16-25,15-15,10-4,14-19
+29,Houston Rockets,41-41,23-18,18-23,14-13,5-8,14-18
+14,Washington Wizards,41-41,22-19,19-22,18-13,7-6,22-22
+18,Utah Jazz,40-42,24-17,16-25,14-16,6-8,23-13
+15,Orlando Magic,35-47,23-18,12-29,12-18,6-10,12-20
+19,Denver Nuggets,33-49,18-23,15-26,11-17,10-5,11-21
+10,Milwaukee Bucks,33-49,23-18,10-31,11-17,6-4,12-27
+23,Sacramento Kings,33-49,18-23,15-26,11-18,8-4,11-19
+3,New York Knicks,32-50,18-23,14-27,9-18,4-7,14-23
+30,New Orleans Pelicans,30-52,21-20,9-32,10-19,5-5,11-23
+20,Minnesota Timberwolves,29-53,14-27,15-26,12-16,7-7,9-23
+24,Phoenix Suns,23-59,14-27,9-32,9-19,4-5,10-32
+4,Brooklyn Nets,21-61,14-27,7-34,7-21,7-4,6-34
+25,Los Angeles Lakers,17-65,12-29,5-36,6-21,2-7,4-44
+5,Philadelphia 76ers,10-72,7-34,3-38,2-27,0-6,5-41
